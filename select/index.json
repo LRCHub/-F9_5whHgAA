@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ファイヤーダンス・サーガ",
+  "base_artist": "PIGGS",
+  "createdAt": "2026-01-13T09:27:42.402001Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ファイヤーダンス・サーガ",
+      "artist": "PIGGS",
+      "has_synced": false,
+      "path": "select/pl_01_ファイヤーダンス・サーガ_PIGGS.txt"
+    }
+  ]
+}
